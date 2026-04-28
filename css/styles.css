@@ -29,3 +29,9 @@ button {
     height: 290px;
     width: 600px;
 }
+h1, h5, a {
+    font-family: "Limelight", sans-serif;
+}
+h2, h3, p {
+    font-family: "Elms Sans", sans-serif;
+}
